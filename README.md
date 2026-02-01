@@ -1,5 +1,5 @@
 # portfolio
-# 👋 Hi, I’m Inshaal  I’m a backend developer with strong skills in PHP and MySQL. Passionate about building secure, database-driven web applications.
+# 👋 Hi, I’m Inshaal  I’m a backend developer with strong skills in PHP with MySQL and .net(mvc) with sql server. Passionate about building secure, database-driven web applications.
 
 ---
 
@@ -10,10 +10,13 @@
 A front-end project using **HTML, CSS, JavaScript**, and **Bootstrap**.  
 🔗 GitHub Repo: [inshal-inshal/project](https://github.com/inshal-inshal/project)
 
+###  Aptitude Test  
+A Full Stack Web Application Using Asp.Net(MVC) and SqlServer  
+
 
 ## 🛠 Skills
 **Languages & Technologies:** 
-PHP, MySQL, HTML, CSS, JavaScript, SQL Server  
+PHP, MySQL, HTML, CSS, JavaScript, SQL Server , .Net(MVC) 
 - **Core Skills:** CRUD Operations, Login Systems, Admin Panels, Form Handling
 
 ## 📜 Certificate
