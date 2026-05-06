@@ -12,7 +12,7 @@ A front-end project using **HTML, CSS, JavaScript**, and **Bootstrap**.
 
 ###  Aptitude Test  
 A Full Stack Web Application Using Asp.Net(MVC) and SqlServer.
-🔗 GitHub Repo: [inshal-inshal/asp.net/project](https://github.com/inshal-inshal/asp.net/project)
+🔗 GitHub Repo: [inshal-inshal/asp.net-project](https://github.com/inshal-inshal/asp.net-project)
 
 
 
